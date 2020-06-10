@@ -23,9 +23,11 @@ body{
 	padding:.8rem;
 }
 #salute{
-	padding-top: 4rem;
+	padding-top: 5rem;
 		color:#0ff
 	}
 #time{
-	padding-bottom: 4rem;
+	padding-bottom: 5rem;
+	font-size: 4.5rem;
+	font:600 4.5rem verdana;
 }

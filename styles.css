@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+
+}
+#outer{
+	
+	background:#fff;
+	text-align:center;
+}
+#cover{
+	padding:4px 0;
+	background:#142850;
+	box-shadow:inset 10px 10px 100px #303960,inset -10px -10px 100px #303960;
+	border:1px solid #fff;
+	border-radius:7px;
+}
+#salute,#da,#dt,#time{
+	color:#fff;
+	font-size: 3.5rem;
+	font:600 3.5rem verdana;
+	text-align:center;
+	text-shadow:#222 1px 1px 1px;
+	padding:.5rem;
+}
+#salute{
+	padding-top: 3rem;
+		color:#0ff
+	}
+#time{
+	padding-bottom: 10rem;
+}

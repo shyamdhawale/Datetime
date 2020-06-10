@@ -20,12 +20,12 @@ body{
 	font:600 3.5rem verdana;
 	text-align:center;
 	text-shadow:#222 1px 1px 1px;
-	padding:.5rem;
+	padding:.8rem;
 }
 #salute{
-	padding-top: 3rem;
+	padding-top: 4rem;
 		color:#0ff
 	}
 #time{
-	padding-bottom: 3rem;
+	padding-bottom: 4rem;
 }

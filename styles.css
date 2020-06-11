@@ -11,7 +11,7 @@ body{
 	right: 0;
 	left: 0;
 }
-#cover_disable {
+#cover1{
 	position: relative;
 	padding:4px 0;
 	background:#000;
@@ -19,21 +19,22 @@ body{
 	border:1px solid #fff;
 	border-radius:7px;
 	/*tablet resolution 800x480*/
-/* 	width: 800px; */
-	height: 470px;
+	width: 800px;
+	height: 480px;
 
 }
 #salute,#da,#dt,#time{
 	color:#17D4FE;
 	font-size: 3.5rem;
-	font:600 3.5rem verdana;
+	font-weight: 700;
+	/*font:400 3.5rem ;*/
+	font-family: 'Montserrat', sans-serif;
 	text-align:center;
 	text-shadow:#222 1px 1px 1px;
 	padding:.7rem;
 }
 #salute{
 	padding-top: 5%;
-		color:#0ff
 	}
 #time{
 	padding-bottom: 5%;

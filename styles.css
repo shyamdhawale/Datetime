@@ -23,19 +23,22 @@ body{
 	height: 480px;
 
 }
-#salute,#da,#dt,#time{
+#date,#time{
 	color:#17D4FE;
-	font-size: 3.5rem;
+	font-size: 5rem;
 	font-weight: 700;
 	/*font:400 3.5rem ;*/
 	font-family: 'Montserrat', sans-serif;
 	text-align:center;
 	text-shadow:#222 1px 1px 1px;
-	padding:.7rem;
-}
-#salute{
-	padding-top: 5%;
+	padding: 3rem;
+/*	word-spacing: 20px;*/
+	}
+#date{
+	padding-top: 10%;
 	}
 #time{
 	padding-bottom: 5%;
+	letter-spacing: 10px;
+
 }
